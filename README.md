@@ -9,10 +9,15 @@ This project provides a comprehensive analysis of financial behaviors and prefer
 The dataset contains information regarding financial behaviors and includes the following columns:
 
 Gender 👩‍🦰👨‍🦱: The gender of the investor.
+
 Stock_Market 📈: The stock market preference (e.g., stocks, mutual funds).
+
 Avenue 🏦: The avenue in which the investment is made (e.g., mutual funds, real estate, stocks).
+
 Age 🧓👶: The age of the investor.
+
 Duration ⏳: The tenure of investment (e.g., 1 year, 5 years).
+
 Expect 💭: Expected returns from investments (e.g., high, medium, low).
 
 🛠️ Tools Used 🔧:
