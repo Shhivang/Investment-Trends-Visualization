@@ -20,6 +20,7 @@ Duration ⏳: The tenure of investment (e.g., 1 year, 5 years).
 
 Expect 💭: Expected returns from investments (e.g., high, medium, low).
 
+
 🛠️ Tools Used 🔧:
 
 NumPy 🔢: For numerical computations. Pandas 🐼: For data manipulation and analysis. Matplotlib 📊: For creating static visualizations. Seaborn 🦢: For creating aesthetically pleasing and informative plots.
